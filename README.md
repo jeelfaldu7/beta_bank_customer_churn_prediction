@@ -61,4 +61,7 @@ Beta Bank has been experiencing a steady decline in their customers. To reduce c
 
 ## 🤝 Credits
 This project was created as part of the TripleTen Data Science program - Supervised Learning course. Special thanks to:
-  - TripleTen instructors and peers for ongoing support and feedback. 
+  - TripleTen instructors and peers for ongoing support and feedback.
+
+## 🛡️ License
+This project is licensed under the MIT License.
